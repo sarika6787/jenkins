@@ -581,5 +581,4 @@ slave:
    15  ./shutdown.sh
    16  ./startup.sh
    17  update-alternatives --config java
-   18  java -version
-   19  history
+   
